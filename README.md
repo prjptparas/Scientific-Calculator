@@ -9,7 +9,8 @@
 - **User-friendly Interface**: Simple, clean, and easy-to-use design.
 - **Advanced Functions**: Factorial, power, π, and more.<br><br><br>
 
-## 🏡 Home Page
+## 📃 Web Page
+<br>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb037032-af10-4b23-851e-cc89d4588445" />
 <br><br><br>
 
