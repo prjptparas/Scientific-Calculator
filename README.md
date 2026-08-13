@@ -1,4 +1,4 @@
-# <div align=center>🔢 Scientific-Calculator</div>
+# <div align=center>🔢 Scientific Calculator</div>
 <div align=center>Simple &amp; Responsive Scientific Calculator built with HTML, CSS & JavaScript. <br>It is fully responsive & provides a variety of mathematical operations & functions,<br> including basic arithmetic, complex operations, trigonometric functions & more.</div>
 <br><br><br><br>
 
